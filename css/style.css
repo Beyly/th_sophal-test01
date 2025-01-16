@@ -233,3 +233,14 @@ header .navbar .navbar-nav .nav-item .nav-link--active {
   font-weight: 500;
   color: var(--ly--info);
 }
+
+/* =================== Footer =================== */
+footer {
+  padding: 20px 0px;
+  background-color: var(--ly--main-color-950);
+}
+
+footer p {
+  text-align: center;
+  color: var(--ly--text-dark);
+}
